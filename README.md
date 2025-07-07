@@ -10,4 +10,4 @@
 course udemy iOS & Swift Section 7
 
 # Screenshots
-![ss](ss.png =300x)
+![ss](ss.png)
